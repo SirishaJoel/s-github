@@ -1,0 +1,2 @@
+# s-github
+preparation stuff
